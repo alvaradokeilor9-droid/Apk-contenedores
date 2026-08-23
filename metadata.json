@@ -1,0 +1,6 @@
+{
+  "name": "Drive Contenedores",
+  "description": "Carga más de 100 fotos y organízalas automáticamente en Google Drive en carpetas nombradas por Contenedor, Cliente y PO con soporte para múltiples cuentas de Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
